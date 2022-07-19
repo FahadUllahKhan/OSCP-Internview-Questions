@@ -1,7 +1,9 @@
 # OSCP-Internview-Questions
 One of my colleague has attended the interview of OSCP level. there was an singapure position whcih is required a OSCP condidate
 
-==========================
+
+
+
 What is SQL Injection and types..? And what we can do with SQL injection..? 
 
 Get reverse shell using SQL Injection..? 
